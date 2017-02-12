@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Popular Movies App</string>
+    <string name="most_popular">Most popular movies</string>
+    <string name="top_rated">Top rated movies</string>
+    <string name="error_no_results">No results found</string>
+    <string name="error_no_connection">No internet connection</string>
+    <string name="release_date">Release date</string>
+    <string name="user_rating">User rating</string>
+</resources>
